@@ -1,0 +1,77 @@
+body {background-image: url(IND.jpg);}
+
+.top {width: 500px;
+      height: 100px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      border: dashed black 7px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      
+ }    
+ 
+div {background-color: grey;
+     border: solid rgb(255, 123, 0) 12px;
+     position: relative;
+     
+     
+}
+
+#by {margin-top: 0px;
+     float:inline-start;
+     color:rgb(255, 123, 0);
+     text-align: center;
+     float: right;  
+     margin: 5px;
+     line-height: 45px;
+}
+
+.logo {float: left;
+       background-color: white;
+       border-top: 0px;
+       position: relative;
+}
+
+#tl {color:rgb(255, 123, 0);
+     margin-top: 0px;
+     border: solid rgb(255, 123, 0) 12px;
+     background-color: white;
+     text-align:center;
+     border-top: 0px;
+     line-height: 55px;
+     margin-left: 120px;
+}
+
+
+#text {color:white;
+    margin-top: 0px;
+    border: solid rgb(255, 123, 0) 12px;
+    background-color: gray;
+    text-align: center;
+    line-height: 30px;
+    width: 1000px;
+    box-shadow: 7px 7px 18px brown;
+    display: block;
+      margin-left: auto;
+      margin-right: auto;
+
+}
+
+.rg {margin-top: 0px;
+     float:inline-start;
+     color:rgb(255, 123, 0);
+     text-align: center;
+     float: right;  
+     margin: 5px;
+     line-height: 45px;
+     float: right;
+     background-color: white;
+     border-top: 0px;
+     position: relative;
+     margin-right: 25px;
+     
+}
+
+#fonte {background-color: white;
+}
